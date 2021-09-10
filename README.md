@@ -1,8 +1,8 @@
 # [RedStore](https://j-151.github.io/RedStore/)
 ### Static e-commerce website.
 ## Table of Contents
-*[Features](#features)
-*[Technologies Used](#technologies-used)
+*![Features](#features)
+*![Technologies Used](#technologies-used)
 *[ToDo Features](#todo-features)
 *[ScreenShots](#screenshots)
 
