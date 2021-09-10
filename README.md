@@ -1,22 +1,23 @@
 # [RedStore](https://j-151.github.io/RedStore/)
 ### Static e-commerce website.
 ## Table of Contents
-  -[Features](#features)
-  -[Technologies Used](#technologies-used)
-  -[ToDo Features](#todo-features)
-  -[ScreenShots](#screenshots)
+  - [Features](#features)
+  - [Technologies Used](#technologies-used)
+  - [ToDo Features](#todo-features)
+  - [ScreenShots](#screenshots)
 
 ## Features
-  -Beautiful hover effects
-  -Responsive
+  - Beautiful hover effects
+  - Responsive
+  - Used font-awesome icons
 
 ## Technologies Used
-  -HTML
-  -CSS
+  - HTML
+  - CSS
 
 ## ToDo Features
-  -To add multiple pages
-  -To make it dynamic
+  - To add multiple pages
+  - To make it dynamic
 
 ## Screenshots
 
